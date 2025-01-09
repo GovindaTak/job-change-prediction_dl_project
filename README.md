@@ -8,7 +8,7 @@ A deep machine learning project to predict the likelihood of students seeking jo
 ## Overview  
 This project leverages deep learning to predict whether an individual currently enrolled in a course at Zeta Analytics is likely to seek a job change. By analyzing demographic, educational, and professional data, the model assists the training institute in identifying and connecting potential job seekers with recruitment partners.  
 
----
+-------
 
 ## Features  
 - **Data Preprocessing**:  
